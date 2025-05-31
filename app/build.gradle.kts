@@ -8,8 +8,8 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.gmail.RyanBuck182.GitHubStreak"
-        minSdk = 34
+        applicationId = "com.gmail.ryanbuck182.github_streak"
+        minSdk = 24
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"

@@ -1,4 +1,4 @@
-package com.gmail.RyanBuck182.GitHubStreak
+package com.gmail.ryanbuck182.github_streak
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

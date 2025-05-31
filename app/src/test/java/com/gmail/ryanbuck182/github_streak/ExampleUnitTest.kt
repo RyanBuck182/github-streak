@@ -1,4 +1,4 @@
-package com.gmail.RyanBuck182.GitHubStreak
+package com.gmail.ryanbuck182.github_streak
 
 import org.junit.Test
 
